@@ -32,7 +32,7 @@ function Contact() {
 
     try {
       const res = await fetch(
-        "https://technova-backend.onrender.com/api/contact",
+        "https://technova-juiw.onrender.com/api/contact",
         {
           method: "POST",
           headers: {
